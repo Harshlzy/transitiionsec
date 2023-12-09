@@ -1,4 +1,5 @@
 .lor{font-size: 2rem;}
+.head{color:rgb(218, 213, 213);text-align: center;font-family:sans-serif;}
 body{background-image: url("../dashbg.webp");}
 body[data-aos-duration='350'] [data-aos],
 [data-aos][data-aos][data-aos-duration='350'] {
