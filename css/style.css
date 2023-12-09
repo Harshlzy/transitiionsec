@@ -79,19 +79,21 @@ text-align: center;
 } */
 @media only screen and (max-width: 992px){
 .twiter-img {
-    width: 30%;
-    top: 23%;
-    right: 3%;
+    
+  width: 30%;
+  top: 1%;
+  right: 12%;
+
 }
 .melinda-img {
   width: 25%;
-  top: 25%;
-  left: 15px;
+  top: 16%;
+    left: 5%;
 }
 .best-cimg {
   width: 25%;
-  bottom: 35px;
-  left: -1%;
+  bottom: 62px;
+  left: 17%;
 }
 .cust-seg {
   width: 50%;
