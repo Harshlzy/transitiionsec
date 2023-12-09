@@ -5,6 +5,9 @@
 .head{color:rgb(218, 213, 213);text-align: center;font-family: 'Source Code Pro', monospace;    font-size: 2rem;
   }
 .head >h2{font-weight: 700!important;}
+@media screen and (max-width:786px){
+  .head >h2{font-size:2rem!important;}
+}
 body{background-image: url("../dashbg.webp");}
 body[data-aos-duration='350'] [data-aos],
 [data-aos][data-aos][data-aos-duration='350'] {
